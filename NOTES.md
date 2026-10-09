@@ -3,3 +3,4 @@
 - note 5: the retry section mirrors the code (2026-10-09T23:46:30)
 - note 7: keep the changelog one entry per release (2026-10-09T23:46:45)
 - note 9: temporary notes are pruned weekly (2026-10-09T23:47:00)
+- note 11: line length follows the editor config (2026-10-09T23:47:15)
