@@ -1,0 +1,1 @@
+- note 1: paths in examples stay relative (2026-10-09T23:45:59)
