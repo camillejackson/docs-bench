@@ -6,3 +6,4 @@
 - note 11: line length follows the editor config (2026-10-09T23:47:15)
 - note 13: setup runs before the first import (2026-10-09T23:47:30)
 - note 15: line length follows the editor config (2026-10-09T23:47:45)
+- note 17: review notes before tagging (2026-10-09T23:48:00)
