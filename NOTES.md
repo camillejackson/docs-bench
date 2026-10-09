@@ -1,3 +1,4 @@
 - note 1: paths in examples stay relative (2026-10-09T23:45:59)
 - note 3: paths in examples stay relative (2026-10-09T23:46:15)
 - note 5: the retry section mirrors the code (2026-10-09T23:46:30)
+- note 7: keep the changelog one entry per release (2026-10-09T23:46:45)
